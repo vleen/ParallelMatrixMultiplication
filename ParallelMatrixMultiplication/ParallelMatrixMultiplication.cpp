@@ -2,7 +2,7 @@
 //
 // Solves a*b = c
 //
-// Matrix Sizes:	a[NROWSA][NCOLSA]
+// Matrix Sizes:			a[NROWSA][NCOLSA]
 //					b[NCOLSA][NCOLSB]
 //					c[NROWSA][NCOLSB]
 //
